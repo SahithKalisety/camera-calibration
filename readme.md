@@ -4,18 +4,18 @@
 
 ## Features
 
-- 1.Camera Calibration:
+1.Camera Calibration:
 
-Calibrates the camera using a chessboard pattern.
-Saves calibration matrices and distortion coefficients for future use.
-Computes reprojection error for validation.
+- Calibrates the camera using a chessboard pattern.
+- Saves calibration matrices and distortion coefficients for future use.
+- Computes reprojection error for validation.
 
-- 2.Image Capture:
+2.Image Capture:
 
-Captures color and depth images using an Intel RealSense camera.
-Saves images upon user command ('s' key).
+- Captures color and depth images using an Intel RealSense camera.
+- Saves images upon user command ('s' key).
 
-- 3.RealSense Camera Interface:
+3.RealSense Camera Interface:
 
-Configures and manages Intel RealSense camera streams.
-Provides depth and color data for real-time applications.
+- Configures and manages Intel RealSense camera streams.
+- Provides depth and color data for real-time applications.
